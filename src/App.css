@@ -1,0 +1,14 @@
+.App {
+  margin-top: 10px;
+  margin-left: 10px;
+  padding: 5px;
+  background-color: rgb(155, 222, 135);
+}
+
+.appChild {
+  margin-top: 10px;
+  background-color: burlywood;
+  padding: 10px;
+}
+
+button {cursor: pointer;}
